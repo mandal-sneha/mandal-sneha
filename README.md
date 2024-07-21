@@ -43,9 +43,9 @@
 
 <p align="center">
   <!-- LinkedIn profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> 
+  <a href="https://www.linkedin.com/in/sneha-mandal-b04592251/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> 
   <!-- Instagram profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a> 
+  <a href="https://www.instagram.com/s_neha_mandal471/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a> 
   <!-- Facebook profile -->
   <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> 
   <!-- Twitter profile -->
