@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Frontend Web Development
 - 👯 I’m looking to collaborate on exciting Web Development projects
 - 🤔 I’m looking for help with mastering React
-- 💬 Ask me about Web Development and Networking tips
+- 💬 Ask me about Web Development
 - 😄 Pronouns: She/Her
 
 <br>
