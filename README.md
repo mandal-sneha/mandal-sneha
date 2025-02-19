@@ -14,9 +14,8 @@
 <img align="right" alt="GIF" src="https://i.redd.it/n8agw6z2smyb1.gif" width="400px" height="250" />
 
 - 🔭 I’m pursuing B.Tech in ECE from the Institute of Engineering & Management, Kolkata
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Fullstack Web Development
 - 👯 I’m looking to collaborate on exciting Web Development projects
-- 🤔 I’m looking for help with mastering React
 - 💬 Ask me about Web Development
 - 😄 Pronouns: She/Her
 
